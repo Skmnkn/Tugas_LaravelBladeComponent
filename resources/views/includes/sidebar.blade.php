@@ -1,0 +1,1 @@
+<div class="col-2 my-5">@yield('content')</div>
